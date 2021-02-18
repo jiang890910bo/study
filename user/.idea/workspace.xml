@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd354db0-74a3-48a8-93d8-a8f100f3834f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/application">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="user" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gVHqZ2JiL9eonC75ksiCa82xfk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="user" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\personal\study\user\application\src\main\java\com\jiangbo\user\application" />
+      <recent name="D:\projects\personal\study\user\application\src\main\resources\mappers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiangbo.user.mashibing.lock.taobaoquestion.two" />
+      <recent name="com.jiangbo.user.mashibing.lock.taobaoquestion" />
+      <recent name="com.jiangbo.user.learn" />
+      <recent name="com.jiangbo.user.mashibing.blocking" />
+      <recent name="com.jiangbo.user.mashibing.aliyun" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\personal\study\user\application\src\main\java\com\jiangbo\user\gateway\acl\algorithm" />
+      <recent name="D:\projects\personal\study\user\application\src\main\resources" />
+      <recent name="D:\projects\personal\study\user\application\src\main\resources\mappers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CompletableFutureTask">
+    <configuration name="CompletableFutureTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.future.CompletableFutureTask" />
+      <module name="user.application.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.future.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmptyCiteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.reference.EmptyCiteTest" />
+      <module name="user.application.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.reference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureTaskTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.future.FutureTaskTest" />
+      <module name="user.application.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.future.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhantomReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.reference.PhantomReferenceTest" />
+      <module name="user.application.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.reference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedNotifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.synchronize.SynchronizedNotifyTest" />
+      <module name="user.application.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.synchronize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user.application.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangbo.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Application.EmptyCiteTest" />
+      <item itemvalue="Application.PhantomReferenceTest" />
+      <item itemvalue="Application.SynchronizedNotifyTest" />
+      <item itemvalue="Application.FutureTaskTest" />
+      <item itemvalue="Application.CompletableFutureTask" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompletableFutureTask" />
+        <item itemvalue="Application.FutureTaskTest" />
+        <item itemvalue="Application.SynchronizedNotifyTest" />
+        <item itemvalue="Application.PhantomReferenceTest" />
+        <item itemvalue="Application.EmptyCiteTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd354db0-74a3-48a8-93d8-a8f100f3834f" name="Default Changelist" comment="" />
+      <created>1598193031795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598193031795</updated>
+      <workItem from="1598193041147" duration="290000" />
+      <workItem from="1598193359793" duration="427000" />
+      <workItem from="1598193823340" duration="1990000" />
+      <workItem from="1598251133593" duration="2572000" />
+      <workItem from="1598321858886" duration="4136000" />
+      <workItem from="1598440337143" duration="1771000" />
+      <workItem from="1598513276753" duration="2050000" />
+      <workItem from="1598777644148" duration="310000" />
+      <workItem from="1598779258474" duration="18706000" />
+      <workItem from="1598959672618" duration="1436000" />
+      <workItem from="1599011312029" duration="1374000" />
+      <workItem from="1599098523489" duration="598000" />
+      <workItem from="1599184276065" duration="597000" />
+      <workItem from="1599359391067" duration="23744000" />
+      <workItem from="1599535915978" duration="1992000" />
+      <workItem from="1599556919905" duration="785000" />
+      <workItem from="1599732314557" duration="595000" />
+      <workItem from="1599737130385" duration="227000" />
+      <workItem from="1599989328639" duration="6537000" />
+      <workItem from="1600070346842" duration="863000" />
+      <workItem from="1600095195551" duration="1832000" />
+      <workItem from="1600147397227" duration="638000" />
+      <workItem from="1600224818138" duration="697000" />
+      <workItem from="1600308424391" duration="602000" />
+      <workItem from="1600397066055" duration="6941000" />
+      <workItem from="1600596715298" duration="5622000" />
+      <workItem from="1600655054636" duration="798000" />
+      <workItem from="1600740758656" duration="1623000" />
+      <workItem from="1600762539212" duration="1316000" />
+      <workItem from="1600774515300" duration="598000" />
+      <workItem from="1600827547629" duration="609000" />
+      <workItem from="1600848867455" duration="591000" />
+      <workItem from="1601001236346" duration="1219000" />
+      <workItem from="1601086461302" duration="1760000" />
+      <workItem from="1601172836444" duration="5681000" />
+      <workItem from="1601305822821" duration="131000" />
+      <workItem from="1601347938822" duration="599000" />
+      <workItem from="1601446097855" duration="664000" />
+      <workItem from="1601683722586" duration="801000" />
+      <workItem from="1602111213977" duration="598000" />
+      <workItem from="1602210675553" duration="1264000" />
+      <workItem from="1602468932725" duration="77000" />
+      <workItem from="1602671272171" duration="29000" />
+      <workItem from="1602818463670" duration="775000" />
+      <workItem from="1602836094125" duration="11000" />
+      <workItem from="1603090744724" duration="3035000" />
+      <workItem from="1603163562691" duration="595000" />
+      <workItem from="1603201631353" duration="595000" />
+      <workItem from="1603258253174" duration="599000" />
+      <workItem from="1603284308857" duration="499000" />
+      <workItem from="1603284844670" duration="596000" />
+      <workItem from="1603348668292" duration="592000" />
+      <workItem from="1603419771188" duration="599000" />
+      <workItem from="1603678700396" duration="599000" />
+      <workItem from="1603850037942" duration="1253000" />
+      <workItem from="1604030272868" duration="597000" />
+      <workItem from="1604043652559" duration="599000" />
+      <workItem from="1604109686439" duration="6000" />
+      <workItem from="1604133831102" duration="3862000" />
+      <workItem from="1604199744921" duration="599000" />
+      <workItem from="1604212366998" duration="1555000" />
+      <workItem from="1604246619347" duration="598000" />
+      <workItem from="1604252641302" duration="599000" />
+      <workItem from="1604298377952" duration="677000" />
+      <workItem from="1604336345119" duration="594000" />
+      <workItem from="1604467246291" duration="4713000" />
+      <workItem from="1604542246551" duration="597000" />
+      <workItem from="1604589390054" duration="599000" />
+      <workItem from="1604591262744" duration="596000" />
+      <workItem from="1604752793273" duration="356000" />
+      <workItem from="1604886869284" duration="1233000" />
+      <workItem from="1604909027540" duration="597000" />
+      <workItem from="1604974402791" duration="380000" />
+      <workItem from="1604977405071" duration="13000" />
+      <workItem from="1605021645357" duration="720000" />
+      <workItem from="1605065571513" duration="571000" />
+      <workItem from="1605067127968" duration="593000" />
+      <workItem from="1605071107754" duration="3876000" />
+      <workItem from="1605669184743" duration="6484000" />
+      <workItem from="1605751142954" duration="636000" />
+      <workItem from="1605799699781" duration="22000" />
+      <workItem from="1605856569704" duration="889000" />
+      <workItem from="1606034891067" duration="2715000" />
+      <workItem from="1606037633843" duration="1767000" />
+      <workItem from="1606457496261" duration="603000" />
+      <workItem from="1606616950411" duration="10889000" />
+      <workItem from="1606658251790" duration="364000" />
+      <workItem from="1606803166506" duration="325000" />
+      <workItem from="1607326384835" duration="1377000" />
+      <workItem from="1607397752221" duration="1912000" />
+      <workItem from="1607482489513" duration="598000" />
+      <workItem from="1607493031581" duration="1646000" />
+      <workItem from="1607520963911" duration="235000" />
+      <workItem from="1607530322274" duration="594000" />
+      <workItem from="1607578033673" duration="2954000" />
+      <workItem from="1607788570422" duration="706000" />
+      <workItem from="1607843303591" duration="8010000" />
+      <workItem from="1607860050199" duration="558000" />
+      <workItem from="1607958288677" duration="720000" />
+      <workItem from="1607999417198" duration="599000" />
+      <workItem from="1608001383987" duration="598000" />
+      <workItem from="1608045066661" duration="2374000" />
+      <workItem from="1608047496461" duration="2308000" />
+      <workItem from="1608050995407" duration="595000" />
+      <workItem from="1608086081100" duration="1063000" />
+      <workItem from="1608297317437" duration="643000" />
+      <workItem from="1608351578499" duration="1101000" />
+      <workItem from="1608392233055" duration="598000" />
+      <workItem from="1608441774949" duration="4139000" />
+      <workItem from="1608691828692" duration="2648000" />
+      <workItem from="1608722357501" duration="599000" />
+      <workItem from="1608776828274" duration="8532000" />
+      <workItem from="1608795124403" duration="1840000" />
+      <workItem from="1608865728651" duration="554000" />
+      <workItem from="1608877244414" duration="40000" />
+      <workItem from="1608877320682" duration="1839000" />
+      <workItem from="1609045036847" duration="9124000" />
+      <workItem from="1609253092054" duration="1279000" />
+      <workItem from="1609729707189" duration="1284000" />
+      <workItem from="1609814064721" duration="1558000" />
+      <workItem from="1609899360436" duration="335000" />
+      <workItem from="1610603304160" duration="2758000" />
+      <workItem from="1610677209287" duration="4896000" />
+      <workItem from="1610937721626" duration="2091000" />
+      <workItem from="1611023365051" duration="598000" />
+      <workItem from="1611046079340" duration="2828000" />
+      <workItem from="1611110054731" duration="1229000" />
+      <workItem from="1611195552529" duration="596000" />
+      <workItem from="1611296297385" duration="597000" />
+      <workItem from="1611320197661" duration="289000" />
+      <workItem from="1611323596614" duration="597000" />
+      <workItem from="1611477310260" duration="501000" />
+      <workItem from="1612146560355" duration="413000" />
+      <workItem from="1612789012802" duration="3000" />
+      <workItem from="1612789149814" duration="2264000" />
+      <workItem from="1612853848055" duration="30338000" />
+      <workItem from="1613098227522" duration="63831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1607844877870">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1607844877870" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613532462709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613532462709" />
+    <state x="490" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606037311265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606037311265" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1612867414130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612867414130" />
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1608047503346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1608047503346" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607845056606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1607845056606" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608047337122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608047337122" />
+    <state width="487" height="466" key="DebuggerActiveHint" timestamp="1613102462097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="487" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1613102462097" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613662254132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613662254132" />
+    <state width="1147" height="175" key="GridCell.Tab.0.bottom" timestamp="1613629914987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613629914987" />
+    <state width="1147" height="175" key="GridCell.Tab.0.center" timestamp="1613629914986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613629914986" />
+    <state width="1147" height="175" key="GridCell.Tab.0.left" timestamp="1613629914986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613629914986" />
+    <state width="1147" height="175" key="GridCell.Tab.0.right" timestamp="1613629914987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613629914987" />
+    <state width="1305" height="110" key="GridCell.Tab.1.bottom" timestamp="1613271947871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1305" height="110" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613271947871" />
+    <state width="1305" height="110" key="GridCell.Tab.1.center" timestamp="1613271947871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1305" height="110" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613271947871" />
+    <state width="1305" height="110" key="GridCell.Tab.1.left" timestamp="1613271947871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1305" height="110" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613271947871" />
+    <state width="1305" height="110" key="GridCell.Tab.1.right" timestamp="1613271947871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1305" height="110" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613271947871" />
+    <state width="1330" height="302" key="GridCell.Tab.2.bottom" timestamp="1608048860345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="302" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608048860345" />
+    <state width="1330" height="302" key="GridCell.Tab.2.center" timestamp="1608048860345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="302" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608048860345" />
+    <state width="1330" height="302" key="GridCell.Tab.2.left" timestamp="1608048860344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="302" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608048860344" />
+    <state width="1330" height="302" key="GridCell.Tab.2.right" timestamp="1608048860345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="302" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608048860345" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1609075435848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609075435848" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1612868966452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1612868966452" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1613098265822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1613098265822" />
+    <state x="499" y="166" key="extract.method.dialog" timestamp="1608777669035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="166" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1608777669035" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1608049297823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1608049297823" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1613104993500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1613104993500" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613557760697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613557760697" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/com/jiangbo/user/gateway/ohs/controller/AccountController.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/CacheTest.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/CountByteTest.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/com/jiangbo/user/gateway/acl/algorithm/OrderNoRangeShardingAlgorithm.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/main/java/com/jiangbo/user/gateway/acl/algorithm/OrderNoShardingAlgorithm.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/printxyz/MultiThreadPrintXYZ1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/printxyz/MultiThreadPrintXYZ1.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/printxyz/MultiThreadPrintXYZ1.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/printxyz/MultiThreadPrintXYZ5.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/printxyz/MultiThreadPrintXYZ5.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest1.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest1.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest1.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest2.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest2.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest4.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/blocking/BlockingListTest4.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/learn/PrintXYZ1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/learn/ConsumerMessage3.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>364</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java</url>
+          <line>1717</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>1937</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="getState()" />
+        <watch expression="Thread.currentThread()" />
+        <watch expression="getExclusiveOwnerThread()" />
+      </configuration>
+      <configuration name="Remote">
+        <watch expression="countX.getCount()" />
+        <watch expression="c (slot_2)" />
+        <watch expression="Thread.currentThread()" />
+        <watch expression="getExclusiveOwnerThread()" />
+        <watch expression="count.get()" />
+        <watch expression="productCondition.getQueueLength()" />
+        <watch expression="productCondition.drainPermits()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/user$SoftCiteTest.ic" NAME="SoftCiteTest Coverage Results" MODIFIED="1613532444204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jiangbo.user.mashibing.strongsoftemptycite.*</FILTER>
+    </SUITE>
+  </component>
+</project>

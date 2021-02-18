@@ -1,0 +1,12 @@
+[2020-09-22 10:50:23.681][INFO][com.jiangbo.user.SpelTest][Test worker] The following profiles are active: test
+[2020-09-22 10:51:53.494][INFO][com.jiangbo.user.SpelTest][Test worker] The following profiles are active: test
+[2020-09-22 10:51:57.766][INFO][com.jiangbo.user.config.XxlJobConfig][Test worker] >>>>>>>>>>> xxl-job config init.
+[2020-09-22 10:52:00.637][INFO][com.jiangbo.user.SpelTest][Test worker] Started SpelTest in 8.408 seconds (JVM running for 9.419)
+[2020-09-22 10:52:00.642][INFO][c.j.u.application.AccountConfigService1][Test worker] 启动预加载数据(CommandLineRunner)...
+[2020-09-22 10:52:00.948][INFO][c.j.u.application.AccountConfigService][Test worker] 启动预加载数据(ApplicationRunner)...[],[]
+[2020-09-22 10:52:54.067][INFO][com.jiangbo.user.SpelTest][Test worker] The following profiles are active: test
+[2020-09-22 10:53:00.716][INFO][com.jiangbo.user.config.XxlJobConfig][Test worker] >>>>>>>>>>> xxl-job config init.
+[2020-09-22 10:53:04.901][INFO][com.jiangbo.user.SpelTest][Test worker] Started SpelTest in 12.241 seconds (JVM running for 13.174)
+[2020-09-22 10:53:04.910][INFO][c.j.u.application.AccountConfigService1][Test worker] 启动预加载数据(CommandLineRunner)...
+[2020-09-22 10:53:05.320][INFO][c.j.u.application.AccountConfigService][Test worker] 启动预加载数据(ApplicationRunner)...[],[]
+[2020-09-22 10:53:05.648][INFO][com.jiangbo.user.SpelTest][Test worker] estimateOrderTimeout:1800000

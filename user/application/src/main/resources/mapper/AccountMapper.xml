@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jiangbo.user.gateway.acl.repositories.AccountMapper">
+   <resultMap id="BaseResultMap" type="com.jiangbo.user.domain.entity.Account">
+       <id column="id" jdbcType="INTEGER" property="id"></id>
+       <result column="name" jdbcType="VARCHAR" property="name"/>
+       <result column="age" jdbcType="INTEGER" property="age"/>
+       <result column="deposit" jdbcType="FLOAT" property="deposit"/>
+       <result column="create_time" jdbcType="TIMESTAMP" property="createTime"/>
+       <result column="seq" jdbcType="VARCHAR" property="seq"/>
+       <result column="update_time" jdbcType="TIMESTAMP" property="updateTime"/>
+   </resultMap>
+
+    <update id="batchUpdate" parameterType="com.jiangbo.user.domain.entity.Account">
+        UPDATE account
+        <set>
+            <if test="name != null">name = #{name},</if>
+            <if test="age != null">age = #{age},</if>
+            <if test="deposit != null">deposit = #{deposit},</if>
+            <if test="createTime != null">create_time = #{createTime}</if>
+        </set>
+        where id in
+            <foreach collection="idList" item="id"  open="(" separator="," close=")">
+              #{id}
+            </foreach>
+    </update>
+
+    <update id="updateByName" parameterType="com.jiangbo.user.domain.entity.Account">
+        UPDATE account
+        <set>
+            <if test="deposit != null">deposit = #{deposit},</if>
+            <if test="createTime != null">create_time = #{createTime}</if>
+        </set>
+        where `name` like CONCAT(#{name},'%')
+    </update>
+
+    <update id="updateByAge" parameterType="com.jiangbo.user.domain.entity.Account">
+        UPDATE account
+        <set>
+            <if test="deposit != null">deposit = #{deposit},</if>
+            <if test="createTime != null">create_time = #{createTime}</if>
+        </set>
+        where age > #{age}
+    </update>
+</mapper>

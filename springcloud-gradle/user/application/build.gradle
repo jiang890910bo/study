@@ -1,0 +1,17 @@
+group = 'com.cjb'
+version = '0.0.1-SNAPSHOT'
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-test'
+    compileOnly "io.springfox:springfox-swagger2:2.9.2"
+    compileOnly "io.springfox:springfox-swagger-ui:2.9.2"
+    compile "org.springframework.kafka:spring-kafka:2.2.12.RELEASE"
+}
+
+configurations.all {
+    // 动态版本
+    resolutionStrategy.cacheDynamicVersionsFor 1, 'seconds'
+    // 变化模块
+    resolutionStrategy.cacheChangingModulesFor 1, 'seconds'
+}

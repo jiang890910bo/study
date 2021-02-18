@@ -1,0 +1,68 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--&lt;!&ndash; scan:当此属性设置为true时，配置文件如果发生改变，将会被重新加载，默认值为true &ndash;&gt;-->
+<!--&lt;!&ndash; scanPeriod:设置监测配置文件是否有修改的时间间隔，如果没有给出时间单位，默认单位是毫秒。当scan为true时，此属性生效。默认的时间间隔为1分钟。 &ndash;&gt;-->
+<!--&lt;!&ndash; debug:当此属性设置为true时，将打印出logback内部日志信息，实时查看logback运行状态。默认值为false。 &ndash;&gt;-->
+<!--<configuration scan="true" scanPeriod="60 seconds" debug="false">-->
+<!--    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">-->
+<!--        &lt;!&ndash;        对记录事件进行格式化&ndash;&gt;-->
+<!--        <encoder>-->
+<!--            &lt;!&ndash;            时间{HH:mm:ss.SSS} 日志级别 所属类 线程名 代码中指定的信息log(...) 换行&ndash;&gt;-->
+<!--            <pattern>[%d{yyyy-MM-dd HH:mm:ss.SSS}][%p][%c{40}][%t] %m%n</pattern>-->
+<!--        </encoder>-->
+<!--        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">-->
+<!--            <level>DEBUG</level>-->
+<!--        </filter>-->
+<!--    </appender>-->
+
+<!--    &lt;!&ndash;    日常日志&ndash;&gt;-->
+<!--    <appender name="user" class="ch.qos.logback.core.rolling.RollingFileAppender">-->
+<!--        &lt;!&ndash;<File>d:/mmalllog/mmall.log</File>&ndash;&gt;-->
+<!--        <File>./logs/user.log</File>-->
+<!--        &lt;!&ndash;        当发生滚动时，决定 RollingFileAppender 的行为，涉及文件移动和重命名&ndash;&gt;-->
+<!--        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">-->
+<!--            <fileNamePattern>/developer/apache-tomcat-7.0.73/logs/demo.log.%d{yyyy-MM-dd}.gz</fileNamePattern>-->
+<!--            &lt;!&ndash;            true追加到文件末尾，springboot不支持这个属性了&ndash;&gt;-->
+<!--            &lt;!&ndash;            <append>true</append>&ndash;&gt;-->
+<!--            &lt;!&ndash;            保留的归档文件的最大数量 创建的目录也会被删除&ndash;&gt;-->
+<!--            <maxHistory>10</maxHistory>-->
+<!--        </rollingPolicy>-->
+<!--        <encoder>-->
+<!--            <pattern>[%d{yyyy-MM-dd HH:mm:ss.SSS}][%p][%c{40}][%t] %m%n</pattern>-->
+<!--        </encoder>-->
+<!--    </appender>-->
+
+<!--    &lt;!&ndash;    错误日志&ndash;&gt;-->
+<!--    <appender name="error" class="ch.qos.logback.core.rolling.RollingFileAppender">-->
+<!--        <File>./logs/error.log</File>-->
+<!--        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">-->
+<!--            <fileNamePattern>./logs/error.log.%d{yyyy-MM-dd}.gz</fileNamePattern>-->
+<!--            &lt;!&ndash;            <append>true</append>&ndash;&gt;-->
+<!--            <maxHistory>10</maxHistory>-->
+<!--        </rollingPolicy>-->
+<!--        <encoder>-->
+<!--            <pattern>[%d{yyyy-MM-dd HH:mm:ss.SSS}][%p][%c{40}][%t] %m%n</pattern>-->
+<!--        </encoder>-->
+<!--        <filter class="ch.qos.logback.classic.filter.LevelFilter">-->
+<!--            <level>ERROR</level>-->
+<!--            <onMatch>ACCEPT</onMatch>-->
+<!--            <onMismatch>DENY</onMismatch>-->
+<!--        </filter>-->
+<!--    </appender>-->
+
+<!--    &lt;!&ndash;    additivity防止每个日志都打印相同内容&ndash;&gt;-->
+<!--    <logger name="com.jiangbo.user" additivity="false" level="INFO" >-->
+<!--        <appender-ref ref="user" />-->
+<!--        <appender-ref ref="error" />-->
+<!--        <appender-ref ref="console"/>-->
+<!--    </logger>-->
+
+<!--    <logger name="tk.mybatis.mapper" additivity="false" level="INFO" >-->
+<!--        <appender-ref ref="error" />-->
+<!--        <appender-ref ref="console"/>-->
+<!--    </logger>-->
+
+<!--    <root level="info">-->
+<!--        <appender-ref ref="console"/>-->
+<!--        <appender-ref ref="error"/>-->
+<!--    </root>-->
+<!--</configuration>-->

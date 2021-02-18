@@ -1,0 +1,6 @@
+[2020-12-24 15:52:30.994][INFO][com.jiangbo.user.UserApplication][main] No active profile set, falling back to default profiles: default
+[2020-12-24 15:53:07.685][INFO][com.jiangbo.user.UserApplication][main] No active profile set, falling back to default profiles: default
+[2020-12-24 15:53:16.632][INFO][com.jiangbo.user.UserApplication][main] Started UserApplication in 11.279 seconds (JVM running for 12.586)
+[2020-12-24 15:53:16.649][INFO][c.j.u.application.AccountConfigService1][main] 启动预加载数据(CommandLineRunner)...
+[2020-12-24 15:53:16.649][INFO][c.j.u.application.AccountConfigService][main] 启动预加载数据(ApplicationRunner)...[],[]
+[2020-12-24 15:53:16.649][INFO][com.jiangbo.user.UserApplication][main] 启动成功...
