@@ -29,6 +29,8 @@ public class SynchronizedTest {
 		}
 	}
 
+
+
 	public static void main(String[] args) {
 		SynchronizedTest test = new SynchronizedTest();
 		Thread thread0 = new Thread(()->{

@@ -2,8 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd354db0-74a3-48a8-93d8-a8f100f3834f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/ClassEqualList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/JstackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/Md5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/TimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/TryCatchFinallyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/current/BaseTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/current/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/current/TaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/current/TaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/current/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/developer/test/ConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/concurrentcontainers/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/concurrentcontainers/HashTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/concurrentcontainers/SynchronizedHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/jvm/HelloGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/jvm/T15_FullGC_Problem01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/jvm/TestJdk7Perm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/lazylading/JVMLazyLadingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/lazylading/JVMLazyingLadingTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/synchronize/ViewSynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/zaobaozi/Zaobaozi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/protoBuffTest/CommonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/protoBuffTest/ProtoBufTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/protoBuffTest/ReturnVOProto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/application/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/CacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/CacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/DeadLockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/TestMQLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/TestMQLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/lock/taobaoquestion/one/TaobaoQuestionTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/lock/taobaoquestion/one/TaobaoQuestionTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/synchronize/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/java/com/jiangbo/user/mashibing/synchronize/SynchronizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/CacheTest$EstimatePriceCacheVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/CacheTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/DeadLockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/TestMQLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/TestMQLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/mashibing/future/CompletableFutureTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/mashibing/future/CompletableFutureTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/mashibing/jvm/Hello.msbclass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/mashibing/lock/taobaoquestion/one/TaobaoQuestionTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/mashibing/lock/taobaoquestion/one/TaobaoQuestionTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/jiangbo/user/mashibing/synchronize/SynchronizedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/tmp/user-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/tmp/user-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/application-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/application-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.jiangbo.user.SpelTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.jiangbo.user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.jiangbo.user.SpelTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/library/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/libs/library-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/libs/library-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +142,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -86,30 +150,30 @@
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\projects\personal\study\user\application\src\main\java\com\jiangbo\user\application" />
-      <recent name="D:\projects\personal\study\user\application\src\main\resources\mappers" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.jiangbo.user.mashibing.lock.taobaoquestion.two" />
-      <recent name="com.jiangbo.user.mashibing.lock.taobaoquestion" />
-      <recent name="com.jiangbo.user.learn" />
-      <recent name="com.jiangbo.user.mashibing.blocking" />
-      <recent name="com.jiangbo.user.mashibing.aliyun" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\personal\study\user\application\src\main\java\com\jiangbo\user\gateway\acl\algorithm" />
       <recent name="D:\projects\personal\study\user\application\src\main\resources" />
       <recent name="D:\projects\personal\study\user\application\src\main\resources\mappers" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiangbo.user.mashibing.concurrentcontainers" />
+      <recent name="com.jiangbo.user.mashibing.lock.taobaoquestion.two" />
+      <recent name="com.jiangbo.user.mashibing.lock.taobaoquestion" />
+      <recent name="com.jiangbo.user.learn" />
+      <recent name="com.jiangbo.user.mashibing.blocking" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\personal\study\user\application\src\main\java\com\jiangbo\user\application" />
+      <recent name="D:\projects\personal\study\user\application\src\main\resources\mappers" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CompletableFutureTask">
-    <configuration name="CompletableFutureTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.future.CompletableFutureTask" />
+  <component name="RunManager" selected="Application.ConditionTest">
+    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.developer.test.ConditionTest" />
       <module name="user.application.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangbo.user.mashibing.future.*" />
+          <option name="PATTERN" value="com.jiangbo.user.developer.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmptyCiteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.reference.EmptyCiteTest" />
+    <configuration name="MultiThreadContainerTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.lock.taobaoquestion.two.MultiThreadContainerTest2" />
       <module name="user.application.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangbo.user.mashibing.reference.*" />
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.lock.taobaoquestion.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FutureTaskTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.future.FutureTaskTest" />
+    <configuration name="TaobaoQuestionTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.lock.taobaoquestion.one.TaobaoQuestionTest3" />
       <module name="user.application.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangbo.user.mashibing.future.*" />
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.lock.taobaoquestion.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhantomReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.reference.PhantomReferenceTest" />
+    <configuration name="TaobaoQuestionTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.lock.taobaoquestion.one.TaobaoQuestionTest5" />
       <module name="user.application.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangbo.user.mashibing.reference.*" />
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.lock.taobaoquestion.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedNotifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.synchronize.SynchronizedNotifyTest" />
+    <configuration name="Zaobaozi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangbo.user.mashibing.zaobaozi.Zaobaozi" />
       <module name="user.application.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangbo.user.mashibing.synchronize.*" />
+          <option name="PATTERN" value="com.jiangbo.user.mashibing.zaobaozi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,20 +241,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Zaobaozi" />
+      <item itemvalue="Application.TaobaoQuestionTest3" />
+      <item itemvalue="Application.TaobaoQuestionTest5" />
+      <item itemvalue="Application.MultiThreadContainerTest2" />
+      <item itemvalue="Application.ConditionTest" />
       <item itemvalue="Spring Boot.UserApplication" />
-      <item itemvalue="Application.EmptyCiteTest" />
-      <item itemvalue="Application.PhantomReferenceTest" />
-      <item itemvalue="Application.SynchronizedNotifyTest" />
-      <item itemvalue="Application.FutureTaskTest" />
-      <item itemvalue="Application.CompletableFutureTask" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompletableFutureTask" />
-        <item itemvalue="Application.FutureTaskTest" />
-        <item itemvalue="Application.SynchronizedNotifyTest" />
-        <item itemvalue="Application.PhantomReferenceTest" />
-        <item itemvalue="Application.EmptyCiteTest" />
+        <item itemvalue="Application.ConditionTest" />
+        <item itemvalue="Application.MultiThreadContainerTest2" />
+        <item itemvalue="Application.TaobaoQuestionTest5" />
+        <item itemvalue="Application.TaobaoQuestionTest3" />
+        <item itemvalue="Application.Zaobaozi" />
       </list>
     </recent_temporary>
   </component>
@@ -341,6 +405,23 @@
       <workItem from="1612789149814" duration="2264000" />
       <workItem from="1612853848055" duration="30338000" />
       <workItem from="1613098227522" duration="63987000" />
+      <workItem from="1613663234269" duration="107000" />
+      <workItem from="1613700434949" duration="200000" />
+      <workItem from="1613700651767" duration="373000" />
+      <workItem from="1613730050490" duration="1469000" />
+      <workItem from="1613813801831" duration="707000" />
+      <workItem from="1613901415412" duration="2278000" />
+      <workItem from="1613997670078" duration="9768000" />
+      <workItem from="1614057143673" duration="1190000" />
+      <workItem from="1614248124812" duration="2247000" />
+      <workItem from="1624338081329" duration="11586000" />
+      <workItem from="1624438431450" duration="596000" />
+      <workItem from="1624586653517" duration="2868000" />
+      <workItem from="1624860668276" duration="813000" />
+      <workItem from="1624874714708" duration="587000" />
+      <workItem from="1625121814265" duration="595000" />
+      <workItem from="1625225265077" duration="591000" />
+      <workItem from="1625450528027" duration="525000" />
     </task>
     <servers />
   </component>
@@ -348,118 +429,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Inspections" timestamp="1607844877870">
+    <state width="1276" height="267" key="GridCell.Tab.0.bottom" timestamp="1624874675044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1607844877870" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613532462709">
+    <state width="1276" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624874675044" />
+    <state width="1276" height="267" key="GridCell.Tab.0.center" timestamp="1624874675044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613532462709" />
-    <state x="490" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606037311265">
+    <state width="1276" height="267" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624874675044" />
+    <state width="1276" height="267" key="GridCell.Tab.0.left" timestamp="1624874675044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606037311265" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1612867414130">
+    <state width="1276" height="267" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624874675044" />
+    <state width="1276" height="267" key="GridCell.Tab.0.right" timestamp="1624874675044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612867414130" />
-    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1608047503346">
+    <state width="1276" height="267" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624874675044" />
+    <state width="1303" height="162" key="GridCell.Tab.1.bottom" timestamp="1624613824105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1608047503346" />
-    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607845056606">
+    <state width="1303" height="162" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624613824105" />
+    <state width="1303" height="162" key="GridCell.Tab.1.center" timestamp="1624613824105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1607845056606" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608047337122">
+    <state width="1303" height="162" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1624613824105" />
+    <state width="1303" height="162" key="GridCell.Tab.1.left" timestamp="1624613824105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608047337122" />
-    <state width="487" height="466" key="DebuggerActiveHint" timestamp="1613102462097">
+    <state width="1303" height="162" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1624613824105" />
+    <state width="1303" height="162" key="GridCell.Tab.1.right" timestamp="1624613824105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1613102462097" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613662254132">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613662254132" />
-    <state width="1305" height="110" key="GridCell.Tab.0.bottom" timestamp="1613663142838">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1305" height="110" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613663142838" />
-    <state width="1305" height="110" key="GridCell.Tab.0.center" timestamp="1613663142837">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1305" height="110" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613663142837" />
-    <state width="1305" height="110" key="GridCell.Tab.0.left" timestamp="1613663142837">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1305" height="110" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613663142837" />
-    <state width="1305" height="110" key="GridCell.Tab.0.right" timestamp="1613663142837">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1305" height="110" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613663142837" />
-    <state width="1305" height="110" key="GridCell.Tab.1.bottom" timestamp="1613663142836">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1305" height="110" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613663142836" />
-    <state width="1305" height="110" key="GridCell.Tab.1.center" timestamp="1613663142836">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1305" height="110" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613663142836" />
-    <state width="1305" height="110" key="GridCell.Tab.1.left" timestamp="1613663142834">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1305" height="110" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613663142834" />
-    <state width="1305" height="110" key="GridCell.Tab.1.right" timestamp="1613663142836">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1305" height="110" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613663142836" />
-    <state width="1330" height="302" key="GridCell.Tab.2.bottom" timestamp="1608048860345">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1330" height="302" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608048860345" />
-    <state width="1330" height="302" key="GridCell.Tab.2.center" timestamp="1608048860345">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1330" height="302" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608048860345" />
-    <state width="1330" height="302" key="GridCell.Tab.2.left" timestamp="1608048860344">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1330" height="302" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608048860344" />
-    <state width="1330" height="302" key="GridCell.Tab.2.right" timestamp="1608048860345">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1330" height="302" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608048860345" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1609075435848">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609075435848" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1612868966452">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1612868966452" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1613098265822">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1613098265822" />
-    <state x="499" y="166" key="extract.method.dialog" timestamp="1608777669035">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="166" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1608777669035" />
-    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1608049297823">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1608049297823" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1613104993500">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1613104993500" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613557760697">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613557760697" />
+    <state width="1303" height="162" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1624613824105" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -598,6 +599,11 @@
           <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
           <line>1937</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_281/src.zip!/java/util/concurrent/Semaphore.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

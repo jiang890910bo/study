@@ -14,9 +14,6 @@ import java.util.Base64;
  * @Date 2020/06/15
  * @Version 1.0.0
  */
-@RunWith(SpringRunner.class)
-@SpringBootTest
-@ActiveProfiles
 public class TestMQLength {
 
 

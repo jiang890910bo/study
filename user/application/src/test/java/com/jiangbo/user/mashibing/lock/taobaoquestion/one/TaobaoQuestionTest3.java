@@ -38,6 +38,7 @@ public class TaobaoQuestionTest3 {
 						if(size() == 5) {
 							count1.countDown();
 							count2.await();
+							System.out.println("被唤醒。");
 						}
 				}
 			} catch (Exception e) {
